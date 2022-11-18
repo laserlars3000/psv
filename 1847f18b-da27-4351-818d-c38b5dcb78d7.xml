@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<catalog>
+   <version id="1.1">
+      <author>LS</author>
+      <changes>new dingens</changes>
+      <date>18.11</date>
+   </version>
+   <version id="1.0">
+      <author>LS</author>
+      <changes>init</changes>
+      <date>17.11</date>
+   </version>
+</catalog>
